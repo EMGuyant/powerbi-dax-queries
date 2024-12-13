@@ -12,7 +12,7 @@ The repository includes:
 2) `sample-data.xlsx`: Get the sample dataset used in the report and create your own Power BI report from scratch, giving you the freedom to analyze the data with DAX Queries in your own unique way.
 
 ## 🎯 What You Will Learn
-* Blog Post [Dive into DAX: Getting Started with DAX Query View]
+* Blog Post [Dive into DAX: Getting Started with DAX Query View](https://ethanguyant.com/2024/12/13/dive-into-dax-getting-started-with-dax-query-view/)
   * Introduction to DAX Query View: Learn how to access and navigate DAX Query View in Power BI Desktop
   * Quick Queries: Use pre-built queries to explore tables, columns, and measures.
   * Measure Development Workflow: Define, test, and refine measures directly in DAX Query View before updating the data model
